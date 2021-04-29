@@ -11,3 +11,31 @@ The shopping cart calculates the total amounts for the products.
 
 
 Can also search for specific product or category.
+
+
+![Screen Shot 2021-04-29 at 6 37 11 AM](https://user-images.githubusercontent.com/33275709/116548236-ef303300-a8c1-11eb-9556-a4650a2918cf.png)
+
+
+![Screen Shot 2021-04-29 at 6 38 01 AM](https://user-images.githubusercontent.com/33275709/116548239-ef303300-a8c1-11eb-8056-ad48ec9583b2.png)
+
+
+
+![Screen Shot 2021-04-29 at 6 38 20 AM](https://user-images.githubusercontent.com/33275709/116548242-efc8c980-a8c1-11eb-9d25-7c575a3edb74.png)
+
+
+
+![Screen Shot 2021-04-29 at 6 38 36 AM](https://user-images.githubusercontent.com/33275709/116548243-efc8c980-a8c1-11eb-96e5-8051d8c99ab6.png)
+
+
+
+![Screen Shot 2021-04-29 at 6 38 54 AM](https://user-images.githubusercontent.com/33275709/116548244-efc8c980-a8c1-11eb-8338-713e698147ca.png)
+
+
+![Screen Shot 2021-04-29 at 6 39 06 AM](https://user-images.githubusercontent.com/33275709/116548247-f0616000-a8c1-11eb-94af-75fe515c9168.png)
+
+
+![Screen Shot 2021-04-29 at 6 39 44 AM](https://user-images.githubusercontent.com/33275709/116548248-f0616000-a8c1-11eb-916c-4050b9ec0dcc.png)
+
+
+
+![Screen Shot 2021-04-29 at 6 40 00 AM](https://user-images.githubusercontent.com/33275709/116548250-f0616000-a8c1-11eb-84b5-be1dc2848360.png)
